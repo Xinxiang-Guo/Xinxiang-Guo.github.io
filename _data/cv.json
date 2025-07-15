@@ -1,16 +1,16 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
-    "phone": "",
+    "name": "Xinxiang Guo",
+    "email": "guoxinxiang@amss.ac.cn",
+    "phone": "+86 152 6352 4208",
     "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "summary": "Ph.D. candidate at UCAS focusing on game-theoretic learning, optimization, and control. Experienced in algorithm development and large-scale simulations with strong mathematics and engineering skills.",
     "location": {
-      "address": "",
+      "address": "Haidian, Beijing",
       "postalCode": "",
-      "city": "Earth",
-      "countryCode": "US",
-      "region": ""
+      "city": "Beijing",
+      "countryCode": "CN",
+      "region": "Beijing"
     },
     "profiles": [
       {
@@ -30,123 +30,204 @@
       }
     ]
   },
-  "work": [],
-  "education": [
+  "work": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2018",
-      "gpa": null,
-      "courses": []
-    },
-    {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2014",
-      "gpa": null,
-      "courses": []
-    },
-    {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2012",
-      "gpa": null,
-      "courses": []
+      "company": "Baidu Inc.",
+      "position": "Algorithm Engineer Intern, IoT Product R&D Group",
+      "website": "",
+      "startDate": "2023-05",
+      "endDate": "2023-08",
+      "summary": "Worked on LLM deployment, energy market strategies, and smart control projects.",
+      "highlights": [
+        "Explored open-source LLM deployment and power-market trading strategies.",
+        "Developed and containerized the Ava robot’s smart-control simulation interface.",
+        "Built HVAC assistant’s control-logic framework for intelligent control and Q&A using ERNIE Bot."
+      ]
     }
   ],
-  "skills": [],
-  "languages": [],
-  "interests": [],
-  "references": [],
+  "education": [
+    {
+      "institution": "University of Chinese Academy of Sciences",
+      "area": "Ph.D. in Systems Theory",
+      "studyType": "Ph.D.",
+      "startDate": "2023-09",
+      "endDate": "2026-06",
+      "location": "Academy of Mathematics and Systems Science, Beijing"
+    },
+    {
+      "institution": "National University of Singapore",
+      "area": "Ph.D. Exchange in Economics",
+      "studyType": "Exchange",
+      "startDate": "2025-07",
+      "endDate": "2026-01",
+      "location": "Department of Economics, Singapore"
+    },
+    {
+      "institution": "University of Chinese Academy of Sciences",
+      "area": "M.S. in Computational Mathematics",
+      "studyType": "M.S.",
+      "startDate": "2020-09",
+      "endDate": "2023-06"
+    },
+    {
+      "institution": "Jilin University",
+      "area": "B.S. in Information and Computing Science",
+      "studyType": "B.S.",
+      "startDate": "2016-09",
+      "endDate": "2020-06"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Mathematics & Algorithms",
+      "level": "Expert",
+      "keywords": ["Matrix Theory", "Optimization", "Game Theory", "Reinforcement Learning"]
+    },
+    {
+      "name": "Machine Learning & AI",
+      "level": "Advanced",
+      "keywords": ["SVM", "GAN", "AlphaGo", "Q-learning", "Value Iteration"]
+    },
+    {
+      "name": "Programming",
+      "level": "Advanced",
+      "keywords": ["Python", "MATLAB", "Jupyter", "Clean Code Practices"]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "CET-6, 628"
+    },
+    {
+      "language": "Chinese",
+      "fluency": "Native"
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Securities Qualification Certificate"
+    },
+    {
+      "name": "National Computer Rank Examination Level-2"
+    }
+  ],
   "publications": [
     {
-      "name": "Paper Title Number 1",
-      "publisher": "Journal 1",
-      "releaseDate": "2009-10-01",
-      "website": "http://academicpages.github.io/files/paper1.pdf",
-      "summary": "This paper is about the number 1. The number 2 is left for future work."
+      "name": "Periodicity in hedge-myopic system and an asymmetric NE-solving paradigm for two-player zero-sum games",
+      "publisher": "Dynamic Games and Applications",
+      "releaseDate": "2025",
+      "summary": "",
+      "website": ""
     },
     {
-      "name": "Paper Title Number 2",
-      "publisher": "Journal 1",
-      "releaseDate": "2010-10-01",
-      "website": "http://academicpages.github.io/files/paper2.pdf",
-      "summary": "This paper is about the number 2. The number 3 is left for future work."
+      "name": "Periodicity in dynamical games driven by the Hedge algorithm and myopic best response",
+      "publisher": "CDC 2024",
+      "releaseDate": "2024",
+      "summary": "",
+      "website": ""
     },
     {
-      "name": "Paper Title Number 3",
-      "publisher": "Journal 1",
-      "releaseDate": "2015-10-01",
-      "website": "http://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about the number 3. The number 4 is left for future work."
+      "name": "Regularized Minimax-V Learning for Solving Randomly Terminating Two-Player Zero-Sum Markov Games",
+      "publisher": "FAW 2025",
+      "releaseDate": "2025",
+      "summary": "",
+      "website": ""
     },
     {
-      "name": "Paper Title Number 4",
-      "publisher": "GitHub Journal of Bugs",
-      "releaseDate": "2024-02-17",
-      "website": "http://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about fixing template issue #693."
+      "name": "Taking Myopic Best Response Against The Hedge Algorithm",
+      "publisher": "CCC 2023",
+      "releaseDate": "2023",
+      "summary": "",
+      "website": ""
+    },
+    {
+      "name": "DTHBR: An Asymmetric NE-solving Paradigm with Last-iterate Convergence for Two-player Zero-sum Games",
+      "publisher": "CCC 2025",
+      "releaseDate": "2025",
+      "summary": "Accepted",
+      "website": ""
+    },
+    {
+      "name": "Last-iterate convergence in zero-sum games: Alternating heterogeneous dynamics to the rescue",
+      "publisher": "NeurIPS 2025",
+      "releaseDate": "2025",
+      "summary": "Submitted",
+      "website": ""
+    },
+    {
+      "name": "The Optimal Strategy against Hedge Algorithm in Repeated Games",
+      "publisher": "arXiv:2312.09472",
+      "releaseDate": "2023",
+      "summary": "",
+      "website": ""
+    },
+    {
+      "name": "Last-iterate Convergence of Heterogeneous Alternating Learning in Time-varying Zero-sum Games",
+      "publisher": "AAAI 2026",
+      "releaseDate": "2026",
+      "summary": "Submitted",
+      "website": ""
+    }
+  ],
+  "awards": [
+    {
+      "title": "National Scholarship for Master Students",
+      "date": "2022-09"
+    },
+    {
+      "title": "UCAS Outstanding Student",
+      "date": "2021-05"
+    },
+    {
+      "title": "UCAS Outstanding Student",
+      "date": "2023-05"
+    },
+    {
+      "title": "UCAS Outstanding Student",
+      "date": "2025-05"
+    },
+    {
+      "title": "IWACIII 2023 Session Best Presentation Award",
+      "date": "2023-11"
     }
   ],
   "presentations": [
     {
-      "name": "Talk 1 on Relevant Topic in Your Field",
-      "event": "UC San Francisco, Department of Testing",
-      "date": "2012-03-01",
-      "location": "San Francisco, CA, USA",
-      "description": ""
+      "name": "Game Theory and Applications",
+      "event": "International Congress of Mathematicians",
+      "date": "2022-06",
+      "location": "Online"
     },
     {
-      "name": "Tutorial 1 on Relevant Topic in Your Field",
-      "event": "UC-Berkeley Institute for Testing Science",
-      "date": "2013-03-01",
-      "location": "Berkeley, CA, USA",
-      "description": ""
+      "name": "Periodicity in Hedge-Myopic System",
+      "event": "CDC 2024",
+      "date": "2024-12",
+      "location": "Milano"
     },
     {
-      "name": "Talk 2 on Relevant Topic in Your Field",
-      "event": "London School of Testing",
-      "date": "2014-02-01",
-      "location": "London, UK",
-      "description": ""
+      "name": "Frontiers in Algorithmics",
+      "event": "FAW 2025",
+      "date": "2025-06",
+      "location": "Paris"
     },
     {
-      "name": "Conference Proceeding talk 3 on Relevant Topic in Your Field",
-      "event": "Testing Institute of America 2014 Annual Conference",
-      "date": "2014-03-01",
-      "location": "Los Angeles, CA, USA",
-      "description": ""
-    }
-  ],
-  "teaching": [
-    {
-      "course": "Teaching experience 1",
-      "institution": "University 1, Department",
-      "date": "2014-01-01",
-      "role": "Undergraduate course",
-      "description": ""
+      "name": "Various Talks on Learning in Games",
+      "event": "CCC 2023/2024/2025",
+      "date": "2023-07 to 2025-07",
+      "location": "Tianjin, Kunming, Chongqing"
     },
     {
-      "course": "Teaching experience 2",
-      "institution": "University 1, Department",
-      "date": "2015-01-01",
-      "role": "Workshop",
-      "description": ""
-    }
-  ],
-  "portfolio": [
+      "name": "Learning in Time-varying Games",
+      "event": "AAAI 2026 (Submitted)",
+      "date": "2026",
+      "location": ""
+    },
     {
-      "name": "Portfolio item number 1",
-      "category": "portfolio",
-      "date": "",
-      "url": "",
-      "description": "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+      "name": "East Asia Game Theory",
+      "event": "EAGT 2024",
+      "date": "2024-08",
+      "location": "Jeju Island"
     }
   ]
 }
