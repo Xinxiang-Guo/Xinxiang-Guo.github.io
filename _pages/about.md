@@ -26,7 +26,7 @@ Xinxiang Guo is a Ph.D. candidate in Systems Theory at the University of Chinese
 ### Contact
 Email: guoxinxiang[at]amss.ac.cn  
 Address: Haidian District, Beijing, China
-🔗 [Google Scholar](https://scholar.google.com/citations?user=PS_CX0AAAAAJ)
+[Google Scholar](https://scholar.google.com/citations?user=PS_CX0AAAAAJ)
 
 ---
 
