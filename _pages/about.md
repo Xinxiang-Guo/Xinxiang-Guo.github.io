@@ -8,7 +8,7 @@ Xinxiang Guo is a Ph.D. candidate in Systems Theory at the University of Chinese
 
 ---
 
-### 🎓 Education
+### Education
 - **Ph.D. Systems Theory**, UCAS, 2023–2026 (expected)  
 - **M.S. Computational Mathematics**, UCAS, 2020–2023  
 - **Visiting Ph.D.**, National University of Singapore, 2025  
@@ -16,16 +16,16 @@ Xinxiang Guo is a Ph.D. candidate in Systems Theory at the University of Chinese
 
 ---
 
-### 🏆 Honors
+### Honors
 - National Scholarship for Graduate Students  
 - UCAS Outstanding Student (2021, 2023, 2025)  
-- Best Presentation Award @ IWACIII 2023  
+- Best Presentation Award at IWACIII 2023  
 
 ---
 
-### 📫 Contact
-📧 guoxinxiang@amss.ac.cn  
-📍 Haidian District, Beijing, China
+### Contact
+Email: guoxinxiang[at]amss.ac.cn  
+Address: Haidian District, Beijing, China
 🔗 [Google Scholar](https://scholar.google.com/citations?user=PS_CX0AAAAAJ)
 
 ---
