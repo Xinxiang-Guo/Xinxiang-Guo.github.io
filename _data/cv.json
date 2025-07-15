@@ -77,41 +77,6 @@
       "endDate": "2020-06"
     }
   ],
-  "skills": [
-    {
-      "name": "Mathematics & Algorithms",
-      "level": "Expert",
-      "keywords": ["Matrix Theory", "Optimization", "Game Theory", "Reinforcement Learning"]
-    },
-    {
-      "name": "Machine Learning & AI",
-      "level": "Advanced",
-      "keywords": ["SVM", "GAN", "AlphaGo", "Q-learning", "Value Iteration"]
-    },
-    {
-      "name": "Programming",
-      "level": "Advanced",
-      "keywords": ["Python", "MATLAB", "Jupyter", "Clean Code Practices"]
-    }
-  ],
-  "languages": [
-    {
-      "language": "English",
-      "fluency": "CET-6, 628"
-    },
-    {
-      "language": "Chinese",
-      "fluency": "Native"
-    }
-  ],
-  "certificates": [
-    {
-      "name": "Securities Qualification Certificate"
-    },
-    {
-      "name": "National Computer Rank Examination Level-2"
-    }
-  ],
   "publications": [
     {
       "name": "Periodicity in hedge-myopic system and an asymmetric NE-solving paradigm for two-player zero-sum games",
