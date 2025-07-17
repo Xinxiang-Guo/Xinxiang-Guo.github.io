@@ -5,6 +5,40 @@ permalink: /publications/
 author_profile: true
 ---
 
+{% assign publications = site.data.publications %}
+
+{% for category in publications %}
+  <h2>{{ category.type }}</h2>
+  <ul>
+    {% for paper in category.papers %}
+      <li>
+        {% if paper.url %}
+          <a href="{{ paper.url }}">{{ paper.title }}</a>
+        {% else %}
+          {{ paper.title }}
+        {% endif %}
+        <br/>
+        {{ paper.authors }}<br/>
+        <em>{{ paper.journal }}</em>
+        {% if paper.conference %}
+          <br/><span style="color:gray">{{ paper.conference }}</span>
+        {% endif %}
+      </li>
+    {% endfor %}
+  </ul>
+{% endfor %}
+
+
+
+
+
+<!-- ---
+layout: archive
+title: "Publications"
+permalink: /publications/
+author_profile: true
+---
+
 {% if site.author.googlescholar %}
   <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
 {% endif %}
@@ -34,3 +68,4 @@ author_profile: true
 
 
 
+ -->
