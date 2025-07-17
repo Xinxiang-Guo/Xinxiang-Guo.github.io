@@ -2,7 +2,7 @@
 title: "The optimal strategy against hedge algorithm in repeated games"
 collection: publications
 category: manuscripts
-permalink: /publication/optimal-strategy-against-Hedge
+permalink: /publication/2023-12-optimal-strategy-against-Hedge
 excerpt: 'Xinxiang Guo, Yifen Mu'
 date: 2023-12
 venue: 'arXiv'
