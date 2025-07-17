@@ -2,7 +2,7 @@
   papers:
     - title: "Periodicity in Hedge-Myopic System and an Asymmetric NE-Solving Paradigm for Two-Player Zero-Sum Games"
       authors: "Xinxiang Guo, Yifen Mu, Xiaoguang Yang"
-      journal: "*Dynamic Games and Applications*, 2025"
+      journal: "Dynamic Games and Applications, 2025"
       url: "/files/periodicity-hedge-myopic-dga2025.pdf"
     
 
@@ -10,37 +10,37 @@
   papers:
     - title: "Periodicity in Dynamical Games Driven by Hedge and Myopic Best Response"
       authors: "Xinxiang Guo, Yifen Mu, Xiaoguang Yang"
-      journal: "*IEEE Conference on Decision and Control (CDC)*, 2024"
+      journal: "IEEE Conference on Decision and Control (CDC), 2024"
       url: "/files/periodicity-hedge-myopic-cdc2024.pdf"
 
-    - title: "Regularized Minimax-V Learning in Markov Games"
+    - title: "Regularized Minimax-V Learning for Solving Randomly Terminating Two-Player Zero-Sum Markov Games"
       authors: "Xinxiang Guo, Yifen Mu"
-      journal: "*International Workshop on Frontiers in Algorithmics (FAW)*, 2025"
+      journal: "International Workshop on Frontiers in Algorithmics (FAW), 2025"
       url: "/files/minimax-v-faw2025.pdf"
 
     - title: "Taking Myopic Best Response Against Hedge"
       authors: "Xinxiang Guo, Yifen Mu"
-      journal: "*Chinese Control Conference (CCC)*, 2023"
+      journal: "IEEE Chinese Control Conference (CCC), 2023"
       url: "/files/myopic-vs-hedge-ccc2023.pdf"
 
     - title: "DTHBR: An Asymmetric NE-Solving Paradigm"
       authors: "Xinxiang Guo, Yifen Mu"
-      journal: "*Chinese Control Conference (CCC)*, 2025 (Accepted)"
+      journal: "IEEE Chinese Control Conference (CCC), 2025 (Accepted)"
       url: "/files/dthbr-ccc2025.pdf"
 
 - type: "Working Papers"
   papers:
     - title: "The Optimal Strategy Against Hedge Algorithm in Repeated Games"
       authors: "Xinxiang Guo, Yifen Mu"
-      journal: "*arXiv:2312.09472*, 2023"
+      journal: "arXiv:2312.09472, 2023"
       url: "/files/optimal-strategy-against-Hedge.pdf"
 
     - title: "Last-Iterate Convergence via Alternating Dynamics"
-      authors: "Xinxiang Guo, Jiacheng Zhang et al."
-      journal: "*NeurIPS*, 2025 (Submitted)"
+      authors: "Xinxiang Guo, Junyue Zhang, Xiao Wang, Ioannis Panageas, Yifen Mu."
+      journal: "Conference on Neural Information Processing Systems (NeurIPS), 2025 (Submitted)"
       # url: "/files/last-iterate-neurips2025.pdf"
 
     - title: "Heterogeneous Learning in Time-Varying Games"
-      authors: "Jiacheng Zhang, Xinxiang Guo (Co-first Author) et al."
-      journal: "*AAAI*, 2026 (Submitted)"
+      authors: "Junyue Zhang, Xinxiang Guo (Co-first Author), Yi Feng, Xiao Wang, Yifen Mu."
+      journal: "The Association for the Advancement of Artificial Intelligence (AAAI), 2026 (Submitted)"
       # url: "/files/heterogeneous-aaai2026.pdf"
