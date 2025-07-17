@@ -18,12 +18,12 @@
       journal: "International Workshop on Frontiers in Algorithmics (FAW), 2025"
       url: "/files/minimax-v-faw2025.pdf"
 
-    - title: "Taking Myopic Best Response Against Hedge"
+    - title: "Taking Myopic Best Response Against The Hedge Algorithm"
       authors: "Xinxiang Guo, Yifen Mu"
       journal: "IEEE Chinese Control Conference (CCC), 2023"
       url: "/files/myopic-vs-hedge-ccc2023.pdf"
 
-    - title: "DTHBR: An Asymmetric NE-Solving Paradigm"
+    - title: "DTHBR: An Asymmetric NE-solving Paradigm with Last-iterate Convergence for Two-player Zero-sum Games"
       authors: "Xinxiang Guo, Yifen Mu"
       journal: "IEEE Chinese Control Conference (CCC), 2025"
       url: "/files/dthbr-ccc2025.pdf"
@@ -35,7 +35,7 @@
       journal: "arXiv:2312.09472, 2023"
       url: "/files/optimal-strategy-against-Hedge.pdf"
 
-    - title: "Last-Iterate Convergence via Alternating Dynamics"
+    - title: "Last-iterate convergence in zero-sum games: Alternating heterogeneous dynamics to the rescue"
       authors: "Xinxiang Guo, Junyue Zhang, Xiao Wang, Ioannis Panageas, Yifen Mu."
       journal: "Conference on Neural Information Processing Systems (NeurIPS), 2025 (Submitted)"
       # url: "/files/last-iterate-neurips2025.pdf"
