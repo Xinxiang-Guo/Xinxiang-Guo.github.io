@@ -32,4 +32,4 @@ Address: Haidian District, Beijing, China
 
 ---
 
-Feel free to reach out if you’re interested in collaboration, academic exchange, or just want to talk about games — theoretical or strategic!
+Feel free to reach out if you’re interested in collaboration, academic exchange, or just want to talk about games!
