@@ -1,7 +1,7 @@
 - type: "Journal Articles"
   papers:
     - title: "Periodicity in Hedge-Myopic System and an Asymmetric NE-Solving Paradigm for Two-Player Zero-Sum Games"
-      authors: "Xinxiang Guo, Yifen Mu, Xiaoguang Yang"
+      authors: "<b>Xinxiang Guo</b>, Yifen Mu, Xiaoguang Yang"
       journal: "Dynamic Games and Applications, 2025"
       url: "/files/periodicity-hedge-myopic-dga2025.pdf"
     
@@ -9,38 +9,38 @@
 - type: "Conference Papers"
   papers:
     - title: "Periodicity in Dynamical Games Driven by Hedge and Myopic Best Response"
-      authors: "Xinxiang Guo, Yifen Mu, Xiaoguang Yang"
+      authors: "<b>Xinxiang Guo</b>, Yifen Mu, Xiaoguang Yang"
       journal: "IEEE Conference on Decision and Control (CDC), 2024"
       url: "/files/periodicity-hedge-myopic-cdc2024.pdf"
 
     - title: "Regularized Minimax-V Learning for Solving Randomly Terminating Two-Player Zero-Sum Markov Games"
-      authors: "Xinxiang Guo, Yifen Mu"
+      authors: "<b>Xinxiang Guo</b>, Yifen Mu"
       journal: "International Workshop on Frontiers in Algorithmics (FAW), 2025"
       url: "/files/minimax-v-faw2025.pdf"
 
     - title: "Taking Myopic Best Response Against The Hedge Algorithm"
-      authors: "Xinxiang Guo, Yifen Mu"
+      authors: "<b>Xinxiang Guo</b>, Yifen Mu"
       journal: "IEEE Chinese Control Conference (CCC), 2023"
       url: "/files/myopic-vs-hedge-ccc2023.pdf"
 
     - title: "DTHBR: An Asymmetric NE-solving Paradigm with Last-iterate Convergence for Two-player Zero-sum Games"
-      authors: "Xinxiang Guo, Yifen Mu"
+      authors: "<b>Xinxiang Guo</b>, Yifen Mu"
       journal: "IEEE Chinese Control Conference (CCC), 2025"
       url: "/files/dthbr-ccc2025.pdf"
 
 - type: "Working Papers"
   papers:
     - title: "The Optimal Strategy Against Hedge Algorithm in Repeated Games"
-      authors: "**Xinxiang Guo**, Yifen Mu"
+      authors: "<b>Xinxiang Guo</b>, Yifen Mu"
       journal: "arXiv:2312.09472, 2023"
       url: "/files/optimal-strategy-against-Hedge.pdf"
 
     - title: "Last-iterate convergence in zero-sum games: Alternating heterogeneous dynamics to the rescue"
-      authors: "**Xinxiang Guo**, Junyue Zhang, Xiao Wang, Ioannis Panageas, Yifen Mu."
+      authors: "<b>Xinxiang Guo</b>, Junyue Zhang, Xiao Wang, Ioannis Panageas, Yifen Mu."
       journal: "Conference on Neural Information Processing Systems (NeurIPS), 2025 (Submitted)"
       # url: "/files/last-iterate-neurips2025.pdf"
 
     - title: "Last-iterate Convergence of Heterogeneous Alternating Learning in Time-Varying Games"
-      authors: "Junyue Zhang, **Xinxiang Guo** (Co-first Author), Yi Feng, Xiao Wang, Yifen Mu."
+      authors: "Junyue Zhang, <b>Xinxiang Guo</b> (Co-first Author), Yi Feng, Xiao Wang, Yifen Mu."
       journal: "The Association for the Advancement of Artificial Intelligence (AAAI), 2026 (Submitted)"
       # url: "/files/heterogeneous-aaai2026.pdf"
