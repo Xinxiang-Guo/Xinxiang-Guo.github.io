@@ -12,10 +12,10 @@ Xinxiang Guo is a Ph.D. candidate in Systems Theory at the University of Chinese
 ---
 
 ## Education
-- **Ph.D. Systems Theory**, UCAS, Sep 2023–Jun 2026 (expected)
+- **Ph.D. in Systems Theory**, UCAS, Sep 2023–Jun 2026 (expected)
 - **Visiting Ph.D.**, National University of Singapore, July 2025-Jan 2026  
-- **M.S. Computational Mathematics**, UCAS, Sep 2020–Jun 2023  
-- **B.S. Information & Computing Science**, Jilin University, Sep 2016–Jun 2020
+- **M.S. in Computational Mathematics**, UCAS, Sep 2020–Jun 2023  
+- **B.S. in Information & Computing Science**, Jilin University, Sep 2016–Jun 2020
 
 ---
 
