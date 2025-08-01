@@ -31,16 +31,16 @@
 - type: "Working Papers"
   papers:
     - title: "The Optimal Strategy Against Hedge Algorithm in Repeated Games"
-      authors: "Xinxiang Guo, Yifen Mu"
+      authors: "**Xinxiang Guo**, Yifen Mu"
       journal: "arXiv:2312.09472, 2023"
       url: "/files/optimal-strategy-against-Hedge.pdf"
 
     - title: "Last-iterate convergence in zero-sum games: Alternating heterogeneous dynamics to the rescue"
-      authors: "Xinxiang Guo, Junyue Zhang, Xiao Wang, Ioannis Panageas, Yifen Mu."
+      authors: "**Xinxiang Guo**, Junyue Zhang, Xiao Wang, Ioannis Panageas, Yifen Mu."
       journal: "Conference on Neural Information Processing Systems (NeurIPS), 2025 (Submitted)"
       # url: "/files/last-iterate-neurips2025.pdf"
 
-    - title: "Heterogeneous Learning in Time-Varying Games"
-      authors: "Junyue Zhang, Xinxiang Guo (Co-first Author), Yi Feng, Xiao Wang, Yifen Mu."
+    - title: "Last-iterate Convergence of Heterogeneous Alternating Learning in Time-Varying Games"
+      authors: "Junyue Zhang, **Xinxiang Guo** (Co-first Author), Yi Feng, Xiao Wang, Yifen Mu."
       journal: "The Association for the Advancement of Artificial Intelligence (AAAI), 2026 (Submitted)"
       # url: "/files/heterogeneous-aaai2026.pdf"
