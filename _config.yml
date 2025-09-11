@@ -22,7 +22,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "gxx.jpg"
+  avatar           : "guoxx.jpg"
   name             : "Xinxiang Guo (郭鑫祥)"
   pronouns         : # "he/his"  
   bio              : "Ph.D. candidate in Mathematics."
