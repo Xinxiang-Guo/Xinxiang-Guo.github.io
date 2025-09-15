@@ -7,7 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-Xinxiang Guo is a Ph.D. candidate in Systems Theory at the University of Chinese Academy of Sciences (UCAS), affiliated with the Academy of Mathematics and Systems Science (AMSS). His research interests lie at the intersection of **algorithmic game theory**, **learning theory**, and **optimization theory**, with a particular focus on the convergence behavior of heterogeneous learning dynamics in zero-sum games.
+Xinxiang Guo is a Ph.D. candidate in Systems Theory at the University of Chinese Academy of Sciences (UCAS), affiliated with the Academy of Mathematics and Systems Science (AMSS). His research interests lie at the intersection of algorithmic game theory, optimization, and reinforcement learning, with a unifying focus on advancing **intelligent decision-making**—an area driving his deep academic passion.
+
+He analyzes the evolutionary behavior of heterogeneous agents in repeated games and investigates the efficiency of heterogeneous learning in computing equilibria. He is also interested in the problem of algorithmic exploitation in repeated games and practical applications of mean-field game theory.
 
 ---
 
