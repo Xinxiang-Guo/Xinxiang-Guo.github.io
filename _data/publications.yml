@@ -1,5 +1,10 @@
 - type: "Journal Articles"
   papers:
+    - title: "Globally optimal strategy against the Hedge algorithm in repeated games"
+      authors: "<b>Xinxiang Guo</b>, Yifen Mu"
+      journal: "Journal of Global Optimization, 2025"
+      url: "/files/optimal-strategy-against-Hedge.pdf"
+      
     - title: "Periodicity in Hedge-Myopic System and an Asymmetric NE-Solving Paradigm for Two-Player Zero-Sum Games"
       authors: "<b>Xinxiang Guo</b>, Yifen Mu, Xiaoguang Yang"
       journal: "Dynamic Games and Applications, 2025"
@@ -32,15 +37,10 @@
   papers:
     - title: "Last-iterate Convergence of Heterogeneous Alternating Learning in Time-Varying Games"
       authors: "Junyue Zhang, <b>Xinxiang Guo</b> (Co-first Author), Yi Feng, Xiao Wang, Yifen Mu."
-      journal: "The Association for the Advancement of Artificial Intelligence (AAAI), 2026 (Submitted)"
+      journal: "The 25th International Conference on Autonomous Agents and Multiagent Systems (AAMAS 2026), (Submitted)"
       # url: "/files/heterogeneous-aaai2026.pdf"
 
     - title: "Last-iterate convergence in zero-sum games: Alternating heterogeneous dynamics to the rescue"
       authors: "<b>Xinxiang Guo</b>, Junyue Zhang, Xiao Wang, Ioannis Panageas, Yifen Mu."
-      journal: "Conference on Neural Information Processing Systems (NeurIPS), 2025 (Submitted)"
+      journal: "Working Paper"
       # url: "/files/last-iterate-neurips2025.pdf"
-
-    - title: "The Optimal Strategy Against Hedge Algorithm in Repeated Games"
-      authors: "<b>Xinxiang Guo</b>, Yifen Mu"
-      journal: "arXiv:2312.09472, 2023"
-      url: "/files/optimal-strategy-against-Hedge.pdf"
