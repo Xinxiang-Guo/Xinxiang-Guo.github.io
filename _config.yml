@@ -22,14 +22,14 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "guoxx.jpg"
+  avatar           : "personal_photo.jpg"
   name             : "Xinxiang Guo (郭鑫祥)"
   pronouns         : # "he/his"  
   bio              : "Ph.D. candidate in Mathematics."
   location         : "Beijing"
   employer         : "Chinese Academy of Sciences"
   uri              : # URL
-  email            : "guoxinxiang@amss.ac.cn" 
+  email            : "guoxinxiang@amss.ac.cn, guoxinxiang1@gmail.com" 
 
   # Academic websites
   academia         : # URL
