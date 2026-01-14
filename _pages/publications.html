@@ -23,6 +23,13 @@ author_profile: true
         {% if paper.conference %}
           <br/><span style="color:gray">{{ paper.conference }}</span>
         {% endif %}
+
+        {% if paper.summary %}
+          <details class="pub-summary">
+            <summary>Summary</summary>
+            {{ paper.summary | markdownify }}
+          </details>
+        {% endif %}
       </li>
     {% endfor %}
   </ul>
