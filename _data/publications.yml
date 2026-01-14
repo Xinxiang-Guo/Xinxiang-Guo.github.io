@@ -15,27 +15,27 @@
   papers:
     - title: "Last-iterate Convergence of Heterogeneous Learning in Time-Varying Zero-Sum Games"
       authors: "Junyue Zhang, <b>Xinxiang Guo</b> (Co-first Author), Yi Feng, Xiao Wang, Yifen Mu"
-      conference: "The 25th International Conference on Autonomous Agents and Multiagent Systems (AAMAS), 2026"
+      journal: "The 25th International Conference on Autonomous Agents and Multiagent Systems (AAMAS), 2026"
       url: "/files/publications/conference/aamas2026_heterogeneous_time_varying.pdf"
     
     - title: "DTHBR: An Asymmetric NE-solving Paradigm with Last-iterate Convergence for Two-player Zero-sum Games"
       authors: "<b>Xinxiang Guo</b>, Yifen Mu"
-      conference: "IEEE Chinese Control Conference (CCC), 2025"
+      journal: "IEEE Chinese Control Conference (CCC), 2025"
       url: "/files/publications/conference/dthbr-ccc2025.pdf"
     
     - title: "Regularized Minimax-V Learning for Solving Randomly Terminating Two-Player Zero-Sum Markov Games"
       authors: "<b>Xinxiang Guo</b>, Yifen Mu"
-      conference: "International Workshop on Frontiers in Algorithmics (FAW), 2025"
+      journal: "International Workshop on Frontiers in Algorithmics (FAW), 2025"
       url: "/files/publications/conference/minimax-v-faw2025.pdf"
 
     - title: "Periodicity in Dynamical Games Driven by Hedge and Myopic Best Response"
       authors: "<b>Xinxiang Guo</b>, Yifen Mu, Xiaoguang Yang"
-      conference: "IEEE Conference on Decision and Control (CDC), 2024"
+      journal: "IEEE Conference on Decision and Control (CDC), 2024"
       url: "/files/publications/conference/periodicity-hedge-myopic-cdc2024.pdf"
 
     - title: "Taking Myopic Best Response Against The Hedge Algorithm"
       authors: "<b>Xinxiang Guo</b>, Yifen Mu"
-      conference: "IEEE Chinese Control Conference (CCC), 2023"
+      journal: "IEEE Chinese Control Conference (CCC), 2023"
       url: "/files/publications/conference/myopic-vs-hedge-ccc2023.pdf"
 
 - type: "Working Papers"
