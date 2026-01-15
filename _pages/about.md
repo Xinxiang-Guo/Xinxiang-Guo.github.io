@@ -29,7 +29,7 @@ He analyzes the evolutionary behavior of heterogeneous agents in repeated games 
 ---
 
 ### Contact
-Email: guoxinxiang@amss.ac.cn  
+Email: guoxinxiang@amss.ac.cn, guoxinxiang1@gmail.com
 Address: Haidian District, Beijing, China
 
 ---
