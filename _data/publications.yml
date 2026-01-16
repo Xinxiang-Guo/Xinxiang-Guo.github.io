@@ -40,7 +40,8 @@
 
 - type: "Working Papers"
   papers:
-    - title: "Last-iterate convergence in zero-sum games: Alternating heterogeneous dynamics to the rescue"
-      authors: "<b>Xinxiang Guo</b>, Junyue Zhang, Xiao Wang, Ioannis Panageas, Yifen Mu."
-      journal: "Working Paper"
-      # url: "/files/last-iterate-neurips2025.pdf"
+    - title: "Heterogeneous Learning Mechanisms in Zero-Sum Games: From Best-Iterate to Last-Iterate Convergence"
+      authors: "<b>Xinxiang Guo</b>, Junyue Zhang, Yifen Mu, Xiao Wang, Ioannis Panageas."
+
+    - title: "When Fictitious Play Meets Mirror Descent: a Simple Adaptive Way to Compete with No-Regret Algorithms under Action Feedback"
+      authors: "Junyue Zhang, <b>Xinxiang Guo</b>, Xiao Wang, Yifen Mu."
