@@ -13,6 +13,11 @@
 
 - type: "Conference Papers"
   papers:
+    - title: "Heterogeneous Learning Mechanisms in Zero-Sum Games: From Best-Iterate to Last-Iterate Convergence"
+      authors: "<b>Xinxiang Guo</b>, Junyue Zhang, Yifen Mu, Xiao Wang, Ioannis Panageas"
+      journal: "The 23rd IFAC World Congress, 2026"
+      url: "/files/publications/conference/ifac2026_heterogeneous_learning.pdf"
+    
     - title: "Last-iterate Convergence of Heterogeneous Learning in Time-Varying Zero-Sum Games"
       authors: "Junyue Zhang, <b>Xinxiang Guo</b> (Co-first Author), Yi Feng, Xiao Wang, Yifen Mu"
       journal: "The 25th International Conference on Autonomous Agents and Multiagent Systems (AAMAS), 2026"
@@ -40,8 +45,8 @@
 
 - type: "Working Papers"
   papers:
-    - title: "Heterogeneous Learning Mechanisms in Zero-Sum Games: From Best-Iterate to Last-Iterate Convergence"
-      authors: "<b>Xinxiang Guo</b>, Junyue Zhang, Yifen Mu, Xiao Wang, Ioannis Panageas."
+    - title: "Robust Aggregation of Calibrated Forecasters"
+      authors: "<b>Xinxiang Guo</b>, Yingkai Li, Yifen Mu."
 
     - title: "When Fictitious Play Meets Mirror Descent: a Simple Adaptive Way to Compete with No-Regret Algorithms under Action Feedback"
       authors: "Junyue Zhang, <b>Xinxiang Guo</b>, Xiao Wang, Yifen Mu."
